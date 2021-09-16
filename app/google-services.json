@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "755311973476",
+    "project_id": "whatsmin-c4e71",
+    "storage_bucket": "whatsmin-c4e71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755311973476:android:101fccaf0f29d169a0bb71",
+        "android_client_info": {
+          "package_name": "com.arm.telemin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755311973476-mabmc5psi7hct3cc2vt4r244t1qdvjv0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arm.telemin",
+            "certificate_hash": "2b309cc39bf2156bd55643a36d0b07c433ed5c05"
+          }
+        },
+        {
+          "client_id": "755311973476-n4klujvbs2232go10qd1evv8v2ggibbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt0ZwMtwriFwANtHlrGiZhRjfBx-Dya0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755311973476-n4klujvbs2232go10qd1evv8v2ggibbe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
